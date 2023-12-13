@@ -219,3 +219,21 @@ app_license = "mit"
 # auth_hooks = [
 #	"ambika_acc.auth.validate"
 # ]
+fixtures=[
+  
+    {"dt":"Custom Field","filters":[
+        [
+            "module","in",[
+               "Ambika Acc"
+            ]
+        ]
+    ]},
+    {"dt":"Role","filters":[
+        [
+            "Name","in",[
+               "Account User"
+            ]
+        ]
+    ]},
+        
+]
