@@ -220,6 +220,7 @@ app_license = "mit"
 #	"ambika_acc.auth.validate"
 # ]
 fixtures=[
+    "Custom DocPerm",
   
     {"dt":"Custom Field","filters":[
         [
