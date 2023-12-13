@@ -236,5 +236,19 @@ fixtures=[
             ]
         ]
     ]},
+    {"dt":"Workspace","filters":[
+        [
+            "Name","in",[
+               "Ambika Account"
+            ]
+        ]
+    ]},
+    {"dt":"Property Setter","filters":[
+        [
+            "module","in",[
+               "Ambika Acc"
+            ]
+        ]
+    ]},
         
 ]
